@@ -3,7 +3,7 @@
 </h1>
 
 <h3 align="center">
-  Data Enthusiast | Machine Learning Engineer | Full-Stack Developer
+  Data Enthusiast | Machine Learning Engineer | Full-Stack Developer | Frontend Developer
 </h3>
 
 <p align="center">
@@ -11,16 +11,16 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/suryansh-kumar-2ab1012bb" target="_blank">
+  <a href="www.linkedin.com/in/rajraushankumar" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="mailto:your.email@example.com">
+  <a href="rajraushankumar360@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="https://leetcode.com/u/techwithsuryansh/" target="_blank">
+  <!-- <a href="https://leetcode.com/u/techwithsuryansh/" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
-  </a>
-  <a href="https://www.instagram.com/the.suryanshsinha" target="_blank">
+  </a> -->
+  <a href="https://www.instagram.com/rajraushan_singh_rajput_?igsh=eGI0dTNsY3JrMTRo" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
 </p>
