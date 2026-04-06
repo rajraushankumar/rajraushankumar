@@ -3,7 +3,7 @@
 </h1>
 
 <h3 align="center">
-  Data Enthusiast | Machine Learning Engineer | Full-Stack Developer | Frontend Developer
+  Frontend Developer | Full-Stack Developer | 
 </h3>
 
 <p align="center">
@@ -17,9 +17,6 @@
   <a href="https://mail.google.com/mail/u/0/#inbox">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <!-- <a href="https://leetcode.com/u/techwithsuryansh/" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
-  </a> -->
   <a href="https://www.instagram.com/rajraushan_singh_rajput_?igsh=eGI0dTNsY3JrMTRo" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
@@ -29,10 +26,10 @@
 
 ###  About Me
 
--  I build intelligent tools, scripts, and full-stack applications using **Python** and **JavaScript**.
--  Currently focused on **Data Analysis**, **Machine Learning**, and process automation.
+-  Hi, I'm Rajraushan Kumar, a BCA student specializing in Data Science & Artificial Intelligence at Gopal Narayan Singh University (GNSU). I'm passionate about technology, problem-solving, and building practical solutions using data and code.
+                        Currently, I'm focused on learning programming, machine learning fundamentals, and AI concepts, and I enjoy turning ideas into real projects through continuous experimentation and hands-on practice. I believe in learning by doing and improving every day.
+My goal is to grow as a skilled tech professional, contribute to meaningful projects, and build a strong foundation in data-driven and AI-based technologies.
 -  **Currently learning:** Advanced ML architectures, React for frontend development, and DevOps basics (Deployment/Cloud).
--  **Open to collaboration** on open-source projects involving Data Science or Python automation.
 -  **Fun Fact:** When I'm not coding, I'm constantly exploring new ways to optimize workflows!
 
 ---
