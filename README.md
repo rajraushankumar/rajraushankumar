@@ -21,6 +21,8 @@
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
     <a href="https://www.youtube.com/@RajRaushanOfficial" target="_blank">
     <img src="https://img.shields.io/badge/youtube-0077B5?style=for-the-badge&logo=youtube&logoColor=white/red%22%20alt=%22youtube" alt="Youtube" />
+      <a href="https://www.facebook.com/rajraushanofficial/" target="_blank">
+    <img src="https://img.shields.io/badge/facebook-0077B5?style=for-the-badge&logo=facebook&logoColor=white/red%22%20alt=%22facebook" alt="Youtube" />
   </a>
 </p>
 
