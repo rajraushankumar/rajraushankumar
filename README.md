@@ -16,6 +16,8 @@
   </a>
   <a href="https://mail.google.com/mail/u/0/#inbox">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+     <a href="https://rajraushankumar.netlify.app/" target="_blank">
+    <img src="https://img.shields.io/badge/portfolio-0077B5?style=for-the-badge&logo=portfolio&logoColor=white/red%22%20alt=%22portfolio" alt="Youtube" />
   </a>
   <a href="https://www.instagram.com/rajraushan_singh_rajput_?igsh=eGI0dTNsY3JrMTRo" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
@@ -23,6 +25,9 @@
     <img src="https://img.shields.io/badge/youtube-0077B5?style=for-the-badge&logo=youtube&logoColor=white/red%22%20alt=%22youtube" alt="Youtube" />
       <a href="https://www.facebook.com/rajraushanofficial/" target="_blank">
     <img src="https://img.shields.io/badge/facebook-0077B5?style=for-the-badge&logo=facebook&logoColor=white/red%22%20alt=%22facebook" alt="Youtube" />
+    
+        
+        
   </a>
 </p>
 
