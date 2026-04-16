@@ -40,7 +40,6 @@
 My goal is to grow as a skilled tech professional, contribute to meaningful projects, and build a strong foundation in data-driven and AI-based technologies.
 -  **Currently learning:** Advanced ML architectures, React for frontend development, and DevOps basics (Deployment/Cloud).
 -  **Fun Fact:** When I'm not coding, I'm constantly exploring new ways to optimize workflows!
-
 ---
 
 ###  Tech Stack & Tools
