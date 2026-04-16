@@ -3,7 +3,7 @@
 </h1>
 
 <h3 align="center">
-  Frontend Developer | Full-Stack Developer | 
+  Frontend Developer | Full-Stack Developer | Data Scientist
 </h3>
 
 <p align="center">
@@ -30,9 +30,7 @@
         
   </a>
 </p>
-
 ---
-
 ###  About Me
 
 -  Hi, I'm Rajraushan Kumar, a BCA student specializing in Data Science & Artificial Intelligence at Gopal Narayan Singh University (GNSU). I'm passionate about technology, problem-solving, and building practical solutions using data and code.
