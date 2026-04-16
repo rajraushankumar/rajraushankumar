@@ -67,6 +67,10 @@ My goal is to grow as a skilled tech professional, contribute to meaningful proj
 ###  GitHub Stats
 
 <div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rajraushankumar&bg_color=141321&color=F8D866&line=F8D866&point=FFFFFF&area=true&hide_border=true" alt="Rajraushan's GitHub Activity Graph" width="100%" />
+</div>
+
+<div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=rajraushankumar &amp;show_icons=true&amp;theme=radium&amp;hide_border=true" alt="Rajraushan's GitHub Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=rajraushankumar&amp;theme=radium&amp;hide_border=true" alt="Rajraushan's GitHub Streak" />
 </div>
