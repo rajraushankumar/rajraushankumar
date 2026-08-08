@@ -1,5 +1,4 @@
-<img width="946" height="444" alt="image" src="https://github.com/user-attachments/assets/bcb6965a-04e2-409e-82bc-b4133ab2a6fc" /><h1 align="center">.
-Hi there, I'm ! Rajraushan Kumar
+# Hi there, I'm Rajraushan Kumar 👋
 </h1>
 
 <h3 align="center">
