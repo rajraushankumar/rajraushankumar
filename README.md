@@ -1,4 +1,4 @@
-<h1 align="center">
+<img width="946" height="444" alt="image" src="https://github.com/user-attachments/assets/bcb6965a-04e2-409e-82bc-b4133ab2a6fc" /><h1 align="center">
   Hi there, I'm ! Rajraushan Kumar
 </h1>
 
@@ -31,7 +31,7 @@
   </a>
 </p>
 ---
-###  About Me
+About Me
 
 - Hi, I’m **Rajraushan Kumar**, a BCA student specializing in **Data Science & Artificial Intelligence** at **Gopal Narayan Singh University (GNSU)**. I am passionate about technology, data-driven problem solving, and developing practical solutions through programming and analytical thinking.
 
