@@ -32,6 +32,7 @@
 ---
 About Me
 
+
 - Hi, I’m **Rajraushan Kumar**, a BCA student specializing in **Data Science & Artificial Intelligence** at **Gopal Narayan Singh University (GNSU)**. I am passionate about technology, data-driven problem solving, and developing practical solutions through programming and analytical thinking.
 
 Currently, I am strengthening my skills in **Python**, **Data Science**, **Machine Learning**, and **Artificial Intelligence**, while gaining hands-on experience by working on real-world projects. I enjoy transforming ideas into practical applications, exploring data to uncover meaningful insights, and continuously improving my technical knowledge through experimentation and project-based learning.
