@@ -31,7 +31,7 @@
   </a>
 </p>
 ---
-##  About Me
+###  About Me
 
 - Hi, I’m **Rajraushan Kumar**, a BCA student specializing in **Data Science & Artificial Intelligence** at **Gopal Narayan Singh University (GNSU)**. I am passionate about technology, data-driven problem solving, and developing practical solutions through programming and analytical thinking.
 
